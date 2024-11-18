@@ -8,5 +8,7 @@ Controls:
 -POWER-UP (custom bind) to activiate your powerup
 Objective:
 Dodge obstacles and collect colectables to reach the next level!
+
+
 Developed by, Tutochka and lackitu
 
